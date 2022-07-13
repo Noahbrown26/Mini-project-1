@@ -11,6 +11,6 @@ This web-page was made from scratch. No starter code was used.
 
 View the web-page here 
 
-![](assets/website.PNG)
+![](assets/images/website.PNG)
 
 https://noahbrown26.github.io/mini-project-1/
