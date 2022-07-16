@@ -1,6 +1,6 @@
 # mini-project-2
 
-This is my second challenge of my UW Coding bootcamp Journey.
+This is the second challenge of my UW Coding bootcamp curriculum.
 
 For this challenge, we had to create a webpage that contains a collection of CSS snippets using flexbox and grids.
 
